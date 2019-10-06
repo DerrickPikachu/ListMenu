@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ListMenu</string>
+    <string name="order_hint">Please order</string>
+    <string-array name="menuList">
+        <item>hamburger</item>
+        <item>french fries</item>
+        <item>cola</item>
+        <item>corn soup</item>
+    </string-array>
 </resources>
